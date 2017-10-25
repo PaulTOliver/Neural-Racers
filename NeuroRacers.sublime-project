@@ -1,0 +1,25 @@
+{
+    "folders":
+    [
+        {
+            "path": ".",
+            "folder_exclude_patterns": ["obj"],
+            "file_exclude_patterns": ["*.sublime-project", "*.sublime-workspace"]
+        }
+    ],
+    "build_systems":
+    [
+        {
+            "name": "Build",
+            "cmd": ["make", "-C", "${project_path}"]
+        },
+        {
+            "name": "Rebuild",
+            "cmd": ["make", "rebuild", "-C", "${project_path}"]
+        },
+        {
+            "name": "Clean",
+            "cmd": ["make", "clean", "-C", "${project_path}"]
+        }
+    ]
+}
