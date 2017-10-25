@@ -4,6 +4,7 @@ that must learn to race proficiently around a track. Several tests have been
 designed, each with different challenges.
 
 - [YouTube Playlist](https://www.youtube.com/watch?v=JeXqbYXKqcs&list=PLrEmYrpTcDJb_RfwCpSnCPk1Cus310ehA)
+- [Featured on Evolutionary Complexity (EPlex) Research Group](http://eplex.cs.ucf.edu/ESHyperNEAT/)
 
 rtES-HyperNeat (Real Time Evolving Substrate Hypercube based Neuro-Evolution of
 Augmenting Topologies) is a real time neuro-evolution algorithm based on the
